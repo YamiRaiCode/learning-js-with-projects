@@ -10,8 +10,8 @@ There are currently no projects in the repository because I'm in the learning ph
 
 I couldn't go very far because I started a little late, but I did understand JavaScript's basic logic.
 
-[x] Variable Definition
-[x] DOM basics
-[x] Access HTML elements in JavaScript
+[x] Variable Definition.
+[x] DOM basics.
+[x] Access HTML elements in JavaScript.
 
 See you tomorrow!! I'm so excited to do this.
