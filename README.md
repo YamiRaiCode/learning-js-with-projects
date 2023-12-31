@@ -47,4 +47,5 @@ I learned different things today so I don't know how to name it but in short:
 * [x] And more of them... (I can't classify some of them)
 
 And for those interested, I am studying with freeCodeCamp 🔥
+  
   •I've never used freeCodeCamp before. And I would advise those who are new to programming not to start here before developing programming logic.
