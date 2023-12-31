@@ -86,7 +86,7 @@ const locations=[
         name: "kill monster",
         "button text": ["Go to town square", "Go to town square", "Go to town square"],
         "button functions": [goTown, goTown, easterEgg],
-        text: 'The monster screams "Arg!" as it dies. You gain experience points and find gold.'    //if you add single quates around the string, then add double quates around the string you want to add "...";
+        text: 'The monster screams "Arg!" as it dies. You gain experience points and find gold.'    //If you want to add "" to specific area in string. Add single quates around the string, then add double quates around the string you want to add "...";
     },
     {
         name: "lose",
@@ -118,7 +118,7 @@ button3.onclick = fightDragon;
 
 function update(location) {             //When you have repetition in your code, this is a sign that you need another function.
     
-    //at the beginning the codes belove are in the goTown function, when we create objects, we shift these to here
+    //at the beginning the codes below are in the goTown function, when we create objects, we shift these to here
     monsterStats.style.display = "none";
 
     button1.innerText = location["button text"][0];        //change text in the element
@@ -214,7 +214,7 @@ function attack() {
     //health -= monsters[fighting].level; 
     health -= getMonsterAttackValue(monsters[fighting].level);      //This sets health equal to health minus the return value of the getMonsterAttackValue function, and passes the level of the monster as an argument.
     if(isMonsterHit()){
-       monsterHealth -= (weapons[currentWeapon].power + (Math.floor(Math.random() * 5)+1));    //Generate a random number within a range. This generates a random number between 1 and xp value;
+       monsterHealth -= (weapons[currentWeapon].power + (Math.floor(Math.random() * 5)+1));    //Generate a random number within a range. For example, this generates a random number between 1 and xp value;
     }else{
         text.innerText += " You miss."
     }
@@ -280,7 +280,7 @@ function easterEgg(){
 function pick(guess){
     let numbers = [];
     while(numbers.length < 10){
-        numbers.push(Math.floor(Math.random() * 11));       //add item to array .push()   
+        numbers.push(Math.floor(Math.random() * 11));       //add item to array with [ .push() ]   
     }
     text.innerText = "You picked " + guess + ". Here are the random numbers:\n";
     for(let i = 0; i<10 ; i++) {
