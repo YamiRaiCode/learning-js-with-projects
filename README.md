@@ -2,6 +2,8 @@
 
 I'm learning JavaScript right now because I want to work my way up to being a Front-End developer. And in order to track my development and become used to GitHub, I wanted to share it here. Maybe I can inspire people who, like me, are just starting out, to NEVER GIVE UP.
 
+"A journey of a thousand miles begins with a single step."
+
 ### What will happen next?
 
 There are currently no projects in the repository because I'm in the learning phase. I will share what I learn day by day on this page. And as I complete each project, I will add to the repository. WISH ME LUCK :shipit:
@@ -49,3 +51,5 @@ I learned different things today so I don't know how to name it but in short:
 And for those interested, I am studying with freeCodeCamp 🔥
   
   •I've never used freeCodeCamp before. And I would advise those who are new to programming not to start here before developing programming logic.
+
+
