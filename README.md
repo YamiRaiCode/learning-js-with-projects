@@ -29,7 +29,22 @@ I've enhanced the interactivity of the game buttons, granting players seamless a
 * [x] Diffirences between objects and arrays.
 * [x] Function declarations
 * [x] Calling Functions.
-* [x] How to push items into arrays.
+* [x] How to push items into arrays. (push())
 * [x] How to change text of an HTML element with JS.  
 
 I aspire to press on, but weariness has begun to set in. :zzz:
+
+## DAY 3
+
+I'm thrilled to share that after three days of dedicated effort, I've successfully completed my first game! While it posed a bit of a challenge as my initial project, my programming background provided a solid foundation that eased the process. The game is now available in my repository, and I'd love for you to check it out. Your feedback would mean a lot to me!
+
+I learned different things today so I don't know how to name it but in short:
+
+* [x] How to generate random numbers.
+* [x] How to update CSS properties in JS
+* [x] The shift() method to removes the first element in the array and returns it.
+* [x] How to make things with a random chance using random numbers.
+* [x] And more of them... (I can't classify some of them)
+
+And for those interested, I am studying with freeCodeCamp 🔥
+  •I've never used freeCodeCamp before. And I would advise those who are new to programming not to start here before developing programming logic.
