@@ -52,4 +52,8 @@ And for those interested, I am studying with freeCodeCamp 🔥
   
   •I've never used freeCodeCamp before. And I would advise those who are new to programming not to start here before developing programming logic.
 
+## DAY 4
 
+I haven't been doing much today because of my exams, which start in about a week. I need to focus on studying for my lessons. However, I did some practice on what I learned in my last project. I think that's enough for today.
+
+* [x] Practice, Practice and More Practice... ✔️
