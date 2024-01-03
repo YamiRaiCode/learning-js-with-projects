@@ -63,7 +63,8 @@ I haven't been doing much today because of my exams, which start in about a week
 I'm incredibly proud of myself! At first, diving into a new programming language was intimidating, but today, I've crafted my very own pixel art website. (Sure, it's not 100% finished, but no biggie!) I've written my own functions, called the shots on what needed to happen to bring this website to life, and more. The thrill of discovering my capabilities was absolutely exhilarating! I'm over the moon with happiness about it.
 
 * [x] Practice, Practice and More Practice... ✔️
-* [x] Learning BootStrap (in progress 🍓) 
+* [x] Learning BootStrap (in progress 🍓)
+* [x] How to create HTML elements with JS
 * [x] Studying exams (help me •-•)
 
 When I finish it, I'll upload it to GitHub in a new repository.
