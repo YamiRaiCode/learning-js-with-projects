@@ -57,3 +57,13 @@ And for those interested, I am studying with freeCodeCamp 🔥
 I haven't been doing much today because of my exams, which start in about a week. I need to focus on studying for my lessons. However, I did some practice on what I learned in my last project. I think that's enough for today.
 
 * [x] Practice, Practice and More Practice... ✔️
+
+## DAY 5 
+
+I'm incredibly proud of myself! At first, diving into a new programming language was intimidating, but today, I've crafted my very own pixel art website. (Sure, it's not 100% finished, but no biggie!) I've written my own functions, called the shots on what needed to happen to bring this website to life, and more. The thrill of discovering my capabilities was absolutely exhilarating! I'm over the moon with happiness about it.
+
+* [x] Practice, Practice and More Practice... ✔️
+* [ ] Learning BootStrap 🍓
+* [x] Studying exams (help me •-•)
+
+When I finish it, I'll upload it to GitHub in a new repository.
