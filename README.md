@@ -68,3 +68,20 @@ I'm incredibly proud of myself! At first, diving into a new programming language
 * [x] Studying exams (help me •-•)
 
 When I finish it, I'll upload it to GitHub in a new repository.
+
+## DAY 6 
+
+It's actually a little difficult to identify it as "day 6" with precision. I had to take a break for about 2-3 weeks due to illness right after the exams. Considering that downtime during the exam week, it feels like ages since I last contributed to GitHub. But today, I've made significant progress on the pixel art site project I had been working on before falling ill. Certainly, I'm still improving my skills in JavaScript, so I'm pretty sure there might be quite a few optimization mistakes and such things in my code. I wanted to create a new repository for this project. So, here is it.
+
+During the time when I wasn't active on GitHub, I had the opportunity to learn quite a bit. I delved deeper into various JavaScript concepts, explored new coding techniques and even I made a few basic projects. 
+
+Below are the things I learned:
+
+* [x] High Order Functions
+* [x] Callback Functions ❔
+* [x] Objects, Their Methods 
+* [x] A Deeper Understanding of Javascript Objects
+* [x] Constructor Functions
+* [x] Using Event Listeners More And More 
+
+I figured out that getting JavaScript right often boils down to using event listeners correctly. I struggled with a problem for a long time, only to realize it was due to me not handling event listeners properly. It taught me the importance of mastering this aspect of JavaScript for smoother coding.
