@@ -85,3 +85,5 @@ Below are the things I learned:
 * [x] Using Event Listeners More And More 
 
 I figured out that getting JavaScript right often boils down to using event listeners correctly. I struggled with a problem for a long time, only to realize it was due to me not handling event listeners properly. It taught me the importance of mastering this aspect of JavaScript for smoother coding.
+
+[Pixel Art Project](https://github.com/YamiRaiCode/pexel-art)
