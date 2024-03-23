@@ -87,3 +87,27 @@ Below are the things I learned:
 I figured out that getting JavaScript right often boils down to using event listeners correctly. I struggled with a problem for a long time, only to realize it was due to me not handling event listeners properly. It taught me the importance of mastering this aspect of JavaScript for smoother coding.
 
 [Pixel Art Project](https://github.com/YamiRaiCode/pexel-art)
+
+## DAY XX 
+
+Hello again, I have been working on many projects since my last commit to this repository. However, I have preferred to create a new repository for each new project, so I was not able to update this repository every time. Nevertheless, I have not abandoned it completely. I will come back from time to time to give you a brief summary of my situation. 🖤
+
+## DAY XX7
+
+Hi everyone!
+I'm excited to announce that I've finished building a form-based calorie counter application! This project was a great way to delve into form validation and gain a deeper understanding of forms, inputs, and related functionalities.
+
+Here are some key takeaways from working on this project:
+
+* [x] Different types of form validation (e.g., required fields, data type checks)
+* [x] Techniques for handling user input errors
+* [x] Best practices for designing user-friendly forms
+* [x] NodeLists
+* [x] Regular expressions (Regex) ❗
+* [x] Deep understanding of creating forms.
+* [x] New methods (e.g. -> .insertAdjacentHTML() - .preventDefault() etc.)
+* [x] for...of loops
+* [x] And many other things
+
+I'm happy to share more details about the project or the specific things I learned.
+[Project Link](#)
