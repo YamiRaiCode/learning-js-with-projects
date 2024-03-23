@@ -110,4 +110,4 @@ Here are some key takeaways from working on this project:
 * [x] And many other things
 
 I'm happy to share more details about the project or the specific things I learned.
-[Project Link](#)
+[Project Link](https://github.com/YamiRaiCode/calorie-counter/)
